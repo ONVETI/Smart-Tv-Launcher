@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/drawable_movie.png.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/drawable/movie.png"
+    },
+    {
+        "merged": "uz.onveti.itv.launcher.app-debug-36:/layout_activity_apps.xml.flat",
+        "source": "uz.onveti.itv.launcher.app-main-38:/layout/activity_apps.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/drawable_ic_video.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/drawable/ic_video.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/layout_activity_main2.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "uz.onveti.itv.launcher.app-debug-36:/layout_activity_setup.xml.flat",
+        "source": "uz.onveti.itv.launcher.app-main-38:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/layout_activity_apps.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_apps.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/drawable_app_icon_your_company.png.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/drawable/app_icon_your_company.png"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/drawable_itv.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/drawable/itv.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/layout_app_item_layout.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/app_item_layout.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/layout_activity_setup.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/layout_fragment_apps.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/fragment_apps.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/drawable_ic_settings.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/drawable_default_background.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/drawable/default_background.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/layout_activity_details.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/drawable_ic_apps.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/drawable/ic_apps.xml"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_main.xml"
+    }
+]
