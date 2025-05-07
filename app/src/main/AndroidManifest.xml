@@ -6,6 +6,7 @@
     <uses-feature
         android:name="android.hardware.touchscreen"
         android:required="false" />
+
     <uses-feature
         android:name="android.software.leanback"
         android:required="true" />
@@ -28,6 +29,7 @@
         <activity
             android:name=".ui.apps.AppsActivity"
             android:exported="false"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.App" />
 
         <activity
@@ -52,6 +54,7 @@
         <activity
             android:name=".ui.setup.SetupActivity"
             android:exported="false"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.App" />
 
     </application>

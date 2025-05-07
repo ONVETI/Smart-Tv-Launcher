@@ -1,35 +1,23 @@
 [
     {
-        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_details.xml",
-        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_details.xml"
+        "merged": "uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_main2.xml",
+        "source": "uz.onveti.itv.launcher.app-main-38:/layout/activity_main2.xml"
     },
     {
-        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/app_item_layout.xml",
-        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/app_item_layout.xml"
-    },
-    {
-        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_apps.xml",
-        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_apps.xml"
-    },
-    {
-        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_main.xml",
-        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/fragment_apps.xml",
-        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/fragment_apps.xml"
-    },
-    {
-        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_setup.xml",
-        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_setup.xml"
-    },
-    {
-        "merged": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_main2.xml",
-        "source": "/Users/onveti/.gradle/daemon/8.11.1/uz.onveti.itv.launcher.app-main-38:/layout/activity_main2.xml"
+        "merged": "uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "uz.onveti.itv.launcher.app-main-38:/layout/activity_main.xml"
     },
     {
         "merged": "uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_setup.xml",
         "source": "uz.onveti.itv.launcher.app-main-38:/layout/activity_setup.xml"
+    },
+    {
+        "merged": "uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_details.xml",
+        "source": "uz.onveti.itv.launcher.app-main-38:/layout/activity_details.xml"
+    },
+    {
+        "merged": "uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/app_item_layout.xml",
+        "source": "uz.onveti.itv.launcher.app-main-38:/layout/app_item_layout.xml"
     },
     {
         "merged": "uz.onveti.itv.launcher.app-mergeDebugResources-35:/layout/activity_apps.xml",

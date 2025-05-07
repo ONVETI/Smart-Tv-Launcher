@@ -19,23 +19,23 @@
 15        android:required="false" />
 15-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:8:9-33
 16    <uses-feature
-16-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:9:5-11:35
+16-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:10:5-12:35
 17        android:name="android.software.leanback"
-17-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:10:9-49
+17-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:11:9-49
 18        android:required="true" />
-18-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:11:9-32
+18-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:12:9-32
 19
 20    <queries>
-20-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:13:5-19:15
+20-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:14:5-20:15
 21        <intent>
-21-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:14:9-18:18
+21-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:9-19:18
 22            <action android:name="android.intent.action.MAIN" />
-22-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:13-65
-22-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:21-62
+22-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:16:13-65
+22-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:16:21-62
 23
 24            <category android:name="android.intent.category.LAUNCHER" />
-24-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:13-73
-24-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:23-70
+24-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:18:13-73
+24-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:18:23-70
 25        </intent>
 26    </queries>
 27
@@ -51,142 +51,146 @@
 32-->[androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
 33
 34    <application
-34-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:21:5-57:19
+34-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:22:5-60:19
 35        android:allowBackup="true"
-35-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:22:9-35
+35-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:23:9-35
 36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 36-->[androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
 37        android:debuggable="true"
 38        android:extractNativeLibs="false"
 39        android:icon="@mipmap/ic_launcher"
-39-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:23:9-43
+39-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:24:9-43
 40        android:label="@string/app_name"
-40-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:24:9-41
+40-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:25:9-41
 41        android:supportsRtl="true"
-41-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:25:9-35
+41-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:26:9-35
 42        android:testOnly="true"
 43        android:theme="@style/Theme.Launcher" >
-43-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:26:9-46
+43-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:27:9-46
 44        <activity
-44-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:28:9-31:48
+44-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:29:9-33:48
 45            android:name="uz.onveti.itv.launcher.ui.apps.AppsActivity"
-45-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:29:13-49
+45-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:30:13-49
 46            android:exported="false"
-46-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:30:13-37
-47            android:theme="@style/Theme.App" />
-47-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:31:13-45
-48        <activity
-48-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:33:9-50:20
-49            android:name="uz.onveti.itv.launcher.MainActivity"
-49-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:34:13-41
-50            android:banner="@drawable/itv"
-50-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:35:13-43
-51            android:exported="true"
-51-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:36:13-36
-52            android:icon="@drawable/itv"
-52-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:37:13-41
-53            android:launchMode="singleTask"
-53-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:38:13-44
-54            android:logo="@drawable/itv"
-54-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:39:13-41
-55            android:screenOrientation="landscape"
-55-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:40:13-50
-56            android:theme="@style/Theme.Launcher" >
-56-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:41:13-50
-57            <intent-filter>
-57-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:42:13-49:29
-58                <action android:name="android.intent.action.MAIN" />
-58-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:13-65
-58-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:21-62
-59
-60                <category android:name="android.intent.category.LAUNCHER" />
-60-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:13-73
-60-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:23-70
-61                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-61-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:46:17-86
-61-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:46:27-83
-62                <category android:name="android.intent.category.HOME" />
-62-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:47:17-73
-62-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:47:27-70
-63                <category android:name="android.intent.category.DEFAULT" />
-63-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:17-76
-63-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:27-73
-64            </intent-filter>
-65        </activity>
-66        <activity
-66-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:52:9-55:48
-67            android:name="uz.onveti.itv.launcher.ui.setup.SetupActivity"
-67-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:53:13-51
-68            android:exported="false"
-68-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:54:13-37
-69            android:theme="@style/Theme.App" />
-69-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:55:13-45
-70
-71        <provider
-71-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-72            android:name="androidx.startup.InitializationProvider"
-72-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
-73            android:authorities="uz.onveti.itv.launcher.androidx-startup"
-73-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
-74            android:exported="false" >
-74-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
-75            <meta-data
-75-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
-76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-76-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
-77                android:value="androidx.startup" />
-77-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
-78            <meta-data
-78-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
-79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-79-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
-80                android:value="androidx.startup" />
-80-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
-81            <meta-data
-81-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
-82                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-82-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
-83                android:value="androidx.startup" />
-83-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
-84        </provider>
-85
-86        <receiver
-86-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
-87            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-87-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
-88            android:directBootAware="false"
-88-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
-89            android:enabled="true"
-89-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
-90            android:exported="true"
-90-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
-91            android:permission="android.permission.DUMP" >
-91-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
-92            <intent-filter>
-92-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
-93                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-93-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
-93-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
-94            </intent-filter>
-95            <intent-filter>
-95-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
-96                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-96-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
-96-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
-97            </intent-filter>
-98            <intent-filter>
-98-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
-99                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-99-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
-99-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
-100            </intent-filter>
-101            <intent-filter>
-101-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
-102                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-102-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
-102-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
-103            </intent-filter>
-104        </receiver>
-105    </application>
-106
-107</manifest>
+46-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:31:13-37
+47            android:screenOrientation="landscape"
+47-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:32:13-50
+48            android:theme="@style/Theme.App" />
+48-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:33:13-45
+49        <activity
+49-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:35:9-52:20
+50            android:name="uz.onveti.itv.launcher.MainActivity"
+50-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:36:13-41
+51            android:banner="@drawable/itv"
+51-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:37:13-43
+52            android:exported="true"
+52-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:38:13-36
+53            android:icon="@drawable/itv"
+53-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:39:13-41
+54            android:launchMode="singleTask"
+54-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:40:13-44
+55            android:logo="@drawable/itv"
+55-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:41:13-41
+56            android:screenOrientation="landscape"
+56-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:42:13-50
+57            android:theme="@style/Theme.Launcher" >
+57-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:43:13-50
+58            <intent-filter>
+58-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:44:13-51:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:16:13-65
+59-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:16:21-62
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:18:13-73
+61-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:18:23-70
+62                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+62-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:17-86
+62-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:27-83
+63                <category android:name="android.intent.category.HOME" />
+63-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:49:17-73
+63-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:49:27-70
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:50:17-76
+64-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:50:27-73
+65            </intent-filter>
+66        </activity>
+67        <activity
+67-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:54:9-58:48
+68            android:name="uz.onveti.itv.launcher.ui.setup.SetupActivity"
+68-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:55:13-51
+69            android:exported="false"
+69-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:56:13-37
+70            android:screenOrientation="landscape"
+70-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:57:13-50
+71            android:theme="@style/Theme.App" />
+71-->/Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:58:13-45
+72
+73        <provider
+73-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+75            android:authorities="uz.onveti.itv.launcher.androidx-startup"
+75-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+76            android:exported="false" >
+76-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+77            <meta-data
+77-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+78-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+79                android:value="androidx.startup" />
+79-->[androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+81-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+82                android:value="androidx.startup" />
+82-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+83            <meta-data
+83-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+84-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+85                android:value="androidx.startup" />
+85-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+86        </provider>
+87
+88        <receiver
+88-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+89            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+90            android:directBootAware="false"
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+91            android:enabled="true"
+91-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+92            android:exported="true"
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+93            android:permission="android.permission.DUMP" >
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+95                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+98                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+101                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+102            </intent-filter>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+104                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+105            </intent-filter>
+106        </receiver>
+107    </application>
+108
+109</manifest>

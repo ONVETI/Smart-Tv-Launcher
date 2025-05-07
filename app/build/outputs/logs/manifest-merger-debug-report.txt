@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
-INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-62:12
 MERGED from [androidx.databinding:viewbinding:8.9.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2fba61e5b87c922d649381a17ef5e63d/transformed/viewbinding-8.9.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65678627c6209aa8ac5a7abeaa877978/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
@@ -75,26 +75,26 @@ ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidMani
 	android:name
 		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:7:9-52
 uses-feature#android.software.leanback
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:9:5-11:35
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:10:5-12:35
 	android:required
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:11:9-32
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:12:9-32
 	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:10:9-49
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:11:9-49
 queries
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:13:5-19:15
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:14:5-20:15
 intent#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:14:9-18:18
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:9-19:18
 action#android.intent.action.MAIN
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:13-65
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:16:13-65
 	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:21-62
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:16:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:13-73
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:18:13-73
 	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:23-70
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:18:23-70
 application
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:21:5-57:19
-INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:21:5-57:19
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:22:5-60:19
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:22:5-60:19
 MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65678627c6209aa8ac5a7abeaa877978/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
@@ -120,63 +120,67 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onve
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:25:9-41
 	android:icon
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:24:9-43
 	android:allowBackup
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:26:9-46
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:27:9-46
 activity#uz.onveti.itv.launcher.ui.apps.AppsActivity
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:28:9-31:48
-	android:exported
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:30:13-37
-	android:theme
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:31:13-45
-	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:29:13-49
-activity#uz.onveti.itv.launcher.MainActivity
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:33:9-50:20
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:29:9-33:48
 	android:screenOrientation
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:40:13-50
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:32:13-50
+	android:exported
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:30:13-49
+activity#uz.onveti.itv.launcher.MainActivity
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:35:9-52:20
+	android:screenOrientation
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:42:13-50
 	android:launchMode
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:38:13-44
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:40:13-44
 	android:exported
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:36:13-36
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:38:13-36
 	android:icon
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:37:13-41
-	android:banner
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:35:13-43
-	android:theme
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:41:13-50
-	android:logo
 		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:39:13-41
-	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:34:13-41
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:42:13-49:29
-category#android.intent.category.LEANBACK_LAUNCHER
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:46:17-86
-	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:46:27-83
-category#android.intent.category.HOME
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:47:17-73
-	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:47:27-70
-category#android.intent.category.DEFAULT
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:17-76
-	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:27-73
-activity#uz.onveti.itv.launcher.ui.setup.SetupActivity
-ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:52:9-55:48
-	android:exported
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:54:13-37
+	android:banner
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:37:13-43
 	android:theme
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:55:13-45
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:43:13-50
+	android:logo
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:41:13-41
 	android:name
-		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:53:13-51
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:44:13-51:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:17-86
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:27-83
+category#android.intent.category.HOME
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:49:17-73
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:49:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:50:27-73
+activity#uz.onveti.itv.launcher.ui.setup.SetupActivity
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:54:9-58:48
+	android:screenOrientation
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:57:13-50
+	android:exported
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:56:13-37
+	android:theme
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:55:13-51
 uses-sdk
 INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml

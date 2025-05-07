@@ -44,6 +44,7 @@
         <activity
             android:name="uz.onveti.itv.launcher.ui.apps.AppsActivity"
             android:exported="false"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.App" />
         <activity
             android:name="uz.onveti.itv.launcher.MainActivity"
@@ -66,6 +67,7 @@
         <activity
             android:name="uz.onveti.itv.launcher.ui.setup.SetupActivity"
             android:exported="false"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.App" />
 
         <provider
