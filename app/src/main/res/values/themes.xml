@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Theme.Launcher" parent="@style/Theme.Leanback">
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.App" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+
+    </style>
+
+
+</resources>
