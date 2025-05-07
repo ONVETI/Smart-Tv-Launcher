@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [androidx.databinding:viewbinding:8.9.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2fba61e5b87c922d649381a17ef5e63d/transformed/viewbinding-8.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65678627c6209aa8ac5a7abeaa877978/transformed/constraintlayout-2.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/onveti/.gradle/caches/8.11.1/transforms/e44f9c263474aa99365ecc53b5a51815/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/onveti/.gradle/caches/8.11.1/transforms/a84601d87c21af0b04d72454cccb0672/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.leanback:leanback:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/861b155afc4adf056d5e718055541a80/transformed/leanback-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9254a632a7fa60d534f84f016d19f7d0/transformed/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/072c3828da6478fed473e85791d7afad/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/onveti/.gradle/caches/8.11.1/transforms/7245b05ef2b6b570f4200d5ae170beac/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/onveti/.gradle/caches/8.11.1/transforms/b16ff6c8fd0d70c808a3efac26e896df/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/e4c95a3f0d3687a7286ca079a7656ccc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/1d4a9c80df1f4c21f6573e335413740d/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/5552393d6ba4194d8e81b93a5a152f5b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/208acbfaa1d4119baefd72b53bce8d61/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3d3b6c3de596ac996b1b70f374652cb0/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/60701c9cb53762eeebd3c4f4810a467f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/113dbd737fb8e00523bb2af115823f21/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/89fc00c4c0caeed9de1c95542671571d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/67cb1d79182496c6fc10169a5047a344/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/4171e7ddc1d5b6e846b01a5703b127a7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9218c193e83471f6ab77a64c4c5a0d62/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3059f1d7ae1ff1800264f89f8b622a5b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/46283ce581d38796311125d6e8aafa24/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9efd17cb6462ff93a85b100b7550c2b3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/c2fa0916d7398a48fb4f88996f4e67eb/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/cee0ca26a7237605fa1fda47c3dd68c7/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/033262943a2ad87041efbdd16fe3f6a3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/abb1b137a2faae7ad437ed2e288aaf59/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/00d7acfa6f414d1a33aa0c6fdd43ff7e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/3ecd6b9a7e6bb9f70ab48dd40e8a8eb6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/3b5096ed039302589d5d455bb45327b2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/db8142d0b50a94e559879c40b4288812/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/d039f0b3100d3cae75c8934b59f11d59/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/0c96c4ae9438c01cb811d63fc340f2f5/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/1ca9a1bee8ed4dc0295936ac2c25084f/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8e89340ff607ba997d3da01993080dcf/transformed/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/b9bfa987a63dbf529e403fab3e4704f7/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/956605fbf5f8ca7e0b6ccbea5096c279/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2745a3c7c889705b1b4135387e5b966a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/ec9ffcfe3488295ca49d6b449cd9d38f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/onveti/.gradle/caches/8.11.1/transforms/26d7ac2ad8147c6d977bffffbb66390e/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/654edbd990380f551dbbc73079d4d364/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65e798cd2bfe31046027bd4413437953/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8744cf9ba494710fe628126cc30249c7/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8c404de801bb2330a82315a6583a8cc5/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/bbf0ce030d9e01147fbe6b8c54cbbdbe/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/6e88cc163885ef9000e0f764efdd7b39/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/onveti/.gradle/caches/8.11.1/transforms/5c681a3cddf2e69e3cbb5c8c79360d07/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:4:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:7:9-52
+uses-feature#android.software.leanback
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:10:9-49
+queries
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:13:5-19:15
+intent#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:14:9-18:18
+action#android.intent.action.MAIN
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:15:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:13-73
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:17:23-70
+application
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:21:5-57:19
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:21:5-57:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65678627c6209aa8ac5a7abeaa877978/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65678627c6209aa8ac5a7abeaa877978/transformed/constraintlayout-2.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9254a632a7fa60d534f84f016d19f7d0/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9254a632a7fa60d534f84f016d19f7d0/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8e89340ff607ba997d3da01993080dcf/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8e89340ff607ba997d3da01993080dcf/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/ec9ffcfe3488295ca49d6b449cd9d38f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/ec9ffcfe3488295ca49d6b449cd9d38f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65e798cd2bfe31046027bd4413437953/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65e798cd2bfe31046027bd4413437953/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:26:9-46
+activity#uz.onveti.itv.launcher.ui.apps.AppsActivity
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:28:9-31:48
+	android:exported
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:29:13-49
+activity#uz.onveti.itv.launcher.MainActivity
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:33:9-50:20
+	android:screenOrientation
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:40:13-50
+	android:launchMode
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:38:13-44
+	android:exported
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:36:13-36
+	android:icon
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:37:13-41
+	android:banner
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:41:13-50
+	android:logo
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:39:13-41
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:42:13-49:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:46:17-86
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:46:27-83
+category#android.intent.category.HOME
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:47:17-73
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:47:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:48:27-73
+activity#uz.onveti.itv.launcher.ui.setup.SetupActivity
+ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:52:9-55:48
+	android:exported
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:54:13-37
+	android:theme
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml:53:13-51
+uses-sdk
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.9.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2fba61e5b87c922d649381a17ef5e63d/transformed/viewbinding-8.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2fba61e5b87c922d649381a17ef5e63d/transformed/viewbinding-8.9.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/onveti/.gradle/caches/8.11.1/transforms/d6aff79bbe297e10282ca3bf3d7c10a4/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65678627c6209aa8ac5a7abeaa877978/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65678627c6209aa8ac5a7abeaa877978/transformed/constraintlayout-2.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/onveti/.gradle/caches/8.11.1/transforms/e44f9c263474aa99365ecc53b5a51815/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/onveti/.gradle/caches/8.11.1/transforms/e44f9c263474aa99365ecc53b5a51815/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/onveti/.gradle/caches/8.11.1/transforms/a84601d87c21af0b04d72454cccb0672/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/onveti/.gradle/caches/8.11.1/transforms/a84601d87c21af0b04d72454cccb0672/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/861b155afc4adf056d5e718055541a80/transformed/leanback-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/861b155afc4adf056d5e718055541a80/transformed/leanback-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9254a632a7fa60d534f84f016d19f7d0/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9254a632a7fa60d534f84f016d19f7d0/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/072c3828da6478fed473e85791d7afad/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/072c3828da6478fed473e85791d7afad/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/onveti/.gradle/caches/8.11.1/transforms/7245b05ef2b6b570f4200d5ae170beac/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/onveti/.gradle/caches/8.11.1/transforms/7245b05ef2b6b570f4200d5ae170beac/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] /Users/onveti/.gradle/caches/8.11.1/transforms/b16ff6c8fd0d70c808a3efac26e896df/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/onveti/.gradle/caches/8.11.1/transforms/b16ff6c8fd0d70c808a3efac26e896df/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/e4c95a3f0d3687a7286ca079a7656ccc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/e4c95a3f0d3687a7286ca079a7656ccc/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/1d4a9c80df1f4c21f6573e335413740d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/1d4a9c80df1f4c21f6573e335413740d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/5552393d6ba4194d8e81b93a5a152f5b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/5552393d6ba4194d8e81b93a5a152f5b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/208acbfaa1d4119baefd72b53bce8d61/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/208acbfaa1d4119baefd72b53bce8d61/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3d3b6c3de596ac996b1b70f374652cb0/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3d3b6c3de596ac996b1b70f374652cb0/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/60701c9cb53762eeebd3c4f4810a467f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/60701c9cb53762eeebd3c4f4810a467f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/113dbd737fb8e00523bb2af115823f21/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/113dbd737fb8e00523bb2af115823f21/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/89fc00c4c0caeed9de1c95542671571d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/89fc00c4c0caeed9de1c95542671571d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/67cb1d79182496c6fc10169a5047a344/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/67cb1d79182496c6fc10169a5047a344/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/4171e7ddc1d5b6e846b01a5703b127a7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/4171e7ddc1d5b6e846b01a5703b127a7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9218c193e83471f6ab77a64c4c5a0d62/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9218c193e83471f6ab77a64c4c5a0d62/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3059f1d7ae1ff1800264f89f8b622a5b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3059f1d7ae1ff1800264f89f8b622a5b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/46283ce581d38796311125d6e8aafa24/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/46283ce581d38796311125d6e8aafa24/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9efd17cb6462ff93a85b100b7550c2b3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/9efd17cb6462ff93a85b100b7550c2b3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/c2fa0916d7398a48fb4f88996f4e67eb/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/c2fa0916d7398a48fb4f88996f4e67eb/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/cee0ca26a7237605fa1fda47c3dd68c7/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/onveti/.gradle/caches/8.11.1/transforms/cee0ca26a7237605fa1fda47c3dd68c7/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/033262943a2ad87041efbdd16fe3f6a3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/033262943a2ad87041efbdd16fe3f6a3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/abb1b137a2faae7ad437ed2e288aaf59/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/onveti/.gradle/caches/8.11.1/transforms/abb1b137a2faae7ad437ed2e288aaf59/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/00d7acfa6f414d1a33aa0c6fdd43ff7e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/00d7acfa6f414d1a33aa0c6fdd43ff7e/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/3ecd6b9a7e6bb9f70ab48dd40e8a8eb6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/3ecd6b9a7e6bb9f70ab48dd40e8a8eb6/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/3b5096ed039302589d5d455bb45327b2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/3b5096ed039302589d5d455bb45327b2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/db8142d0b50a94e559879c40b4288812/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/db8142d0b50a94e559879c40b4288812/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/d039f0b3100d3cae75c8934b59f11d59/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/d039f0b3100d3cae75c8934b59f11d59/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/0c96c4ae9438c01cb811d63fc340f2f5/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/0c96c4ae9438c01cb811d63fc340f2f5/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/1ca9a1bee8ed4dc0295936ac2c25084f/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/1ca9a1bee8ed4dc0295936ac2c25084f/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8e89340ff607ba997d3da01993080dcf/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8e89340ff607ba997d3da01993080dcf/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/b9bfa987a63dbf529e403fab3e4704f7/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/b9bfa987a63dbf529e403fab3e4704f7/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/956605fbf5f8ca7e0b6ccbea5096c279/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/956605fbf5f8ca7e0b6ccbea5096c279/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2745a3c7c889705b1b4135387e5b966a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2745a3c7c889705b1b4135387e5b966a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/ec9ffcfe3488295ca49d6b449cd9d38f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/ec9ffcfe3488295ca49d6b449cd9d38f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/onveti/.gradle/caches/8.11.1/transforms/26d7ac2ad8147c6d977bffffbb66390e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/onveti/.gradle/caches/8.11.1/transforms/26d7ac2ad8147c6d977bffffbb66390e/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/654edbd990380f551dbbc73079d4d364/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/654edbd990380f551dbbc73079d4d364/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65e798cd2bfe31046027bd4413437953/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/65e798cd2bfe31046027bd4413437953/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8744cf9ba494710fe628126cc30249c7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8744cf9ba494710fe628126cc30249c7/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8c404de801bb2330a82315a6583a8cc5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/8c404de801bb2330a82315a6583a8cc5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/bbf0ce030d9e01147fbe6b8c54cbbdbe/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/bbf0ce030d9e01147fbe6b8c54cbbdbe/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/6e88cc163885ef9000e0f764efdd7b39/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/onveti/.gradle/caches/8.11.1/transforms/6e88cc163885ef9000e0f764efdd7b39/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/onveti/.gradle/caches/8.11.1/transforms/5c681a3cddf2e69e3cbb5c8c79360d07/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/onveti/.gradle/caches/8.11.1/transforms/5c681a3cddf2e69e3cbb5c8c79360d07/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/onveti/StudioProjects/ONVETI/Launcher/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/ec9ffcfe3488295ca49d6b449cd9d38f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/onveti/.gradle/caches/8.11.1/transforms/ec9ffcfe3488295ca49d6b449cd9d38f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/onveti/.gradle/caches/8.11.1/transforms/fd75ba728c7247ece12ff13f6e3025be/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#uz.onveti.itv.launcher.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#uz.onveti.itv.launcher.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/onveti/.gradle/caches/8.11.1/transforms/2bb2389062e86fd37428b8a6a4eee874/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/onveti/.gradle/caches/8.11.1/transforms/03c9c290e91d084e4a9323e6bc94914b/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/onveti/.gradle/caches/8.11.1/transforms/3051bae721a5bb91fd94d10ee1e9a9b5/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
